@@ -3,7 +3,7 @@
 ✋ Olá Meu nome é Willian, estou contente por ter você aqui!
 ☀️ Sou de Fortaleza - Ceará;
 💻 Atualmente estou entrando na carreia de dev front-end;
-📕 Estudando e aplicando CSS, HTML, Javascript e C | Futuramente Phyton;
+📕 Estudando e aplicando CSS, HTML, Javascript e Futuramente Phyton;
 🎯 Estou em transição de carreira. Se atualizar para o cenário atual é de extrema importância para mim;
 
 ## Ferramentas e tecnologias
