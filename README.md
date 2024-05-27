@@ -6,9 +6,10 @@
           
 ## Redes e Contato
 <div>
+<a href="https://vercel.com/new/willian-gomes-projects" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Vercel-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com//williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4305F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 <a href="https://www.linkedin.com/in/williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="[https://www.linkedin.com/in/williangomes949](https://vercel.com/new/willian-gomes-projects)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Vercel-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
+
 </div>
 
 ##
