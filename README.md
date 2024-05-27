@@ -6,8 +6,11 @@
           
 ## Redes e Contato
 <div>
-<a href="https://instagram.com//williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4305F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="border-radius = 5px;"></a>
-<a href="https://www.linkedin.com/in/williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" border-radius="5px"></a>   
+          <div style="border-radius ="5px";">
+               <a href="https://instagram.com//williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4305F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>     
+          </div>
+
+<a href="https://www.linkedin.com/in/williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
           
