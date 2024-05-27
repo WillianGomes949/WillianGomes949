@@ -6,7 +6,7 @@
           
 ## Redes e Contato
 <div>
-          <div style="border-radius: "5px";">
+          <div style="border-radius: 5;">
                <a href="https://instagram.com//williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4305F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>     
           </div>
 
