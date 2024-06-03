@@ -34,9 +34,9 @@
      
 ## Redes e Contato
 <div>
-	<a href="https://vercel.com/new/willian-gomes-projects" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" target="_blank"></a> 
-	<a href="https://instagram.com//williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>   
-	<a href="https://www.linkedin.com/in/williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+	<a href="https://vercel.com/new/willian-gomes-projects" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white"></a> 
+	<a href="https://instagram.com//williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>   
+	<a href="https://www.linkedin.com/in/williangomes949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </div>
 	
 
