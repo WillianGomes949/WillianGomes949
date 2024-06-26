@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe-Creative-Cloud&logoColor=white"/>
 </div>
      
-## Redes e Contato
+## Redes de Contato
 <div>
 	<a href="https://vercel.com/new/willian-gomes-projects"><img loading="lazy" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" target="_blank"></a> 
 	<a href="https://instagram.com//williangomes949"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>   
