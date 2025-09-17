@@ -1,10 +1,3 @@
-<div>
-          <p align="center">
-	  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=WillianGomes949&show_icons=true&locale=pt-br&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-	  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianGomes949&locale=pt-br&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-<!-- 	  <img src="https://github-readme-streak-stats.herokuapp.com?user=WillianGomes949&theme=darcula&hide_border=true&background=FFFFFF00&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
-          </p>	
-<div>
 
 ## Ferramentas e Tecnologias:
 <div>
