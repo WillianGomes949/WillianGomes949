@@ -3,7 +3,9 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a><br>
+
+
 ## Ferramentas e Tecnologias:
 <div>
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
