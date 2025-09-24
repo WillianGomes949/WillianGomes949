@@ -1,8 +1,6 @@
 <div>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=graywhite&locale=pt-br&include_all_commits=true&show_icons=true&hide=prs,issues" />
-	</a>
     <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=graywhite&locale=pt-br&langs_count=10&layout=compact" />
-</a>
 </div>
 </a>
 <br>
