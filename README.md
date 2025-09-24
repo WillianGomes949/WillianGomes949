@@ -1,5 +1,5 @@
 <div>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=graywhite&locale=pt-br&include_all_commits=true&show_icons=true&hide=prs,issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" target="_blank" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=graywhite&locale=pt-br&include_all_commits=true&show_icons=true&hide=prs,issues" target="_blank" />
     <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=graywhite&locale=pt-br&langs_count=10&layout=compact" target="_blank"/>
 </div>
 </a>
