@@ -1,9 +1,9 @@
 <div>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=dracula" />
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=dark&layout=compact&langs_count=8&card_width=300" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=dracula&layout=compact&langs_count=8&card_width=300" />
 </a>
 </div>
 
