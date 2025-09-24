@@ -3,7 +3,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=dracula&locale=pt-br" />
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
-    <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=dracula&locale=pt-br&langs_count=8&card_width=500" />
+    <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=dracula&locale=pt-br&langs_count=8&card_width=300" />
 </a>
 </div>
 
