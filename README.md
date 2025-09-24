@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=graywhite&locale=pt-br&commits_year=2025&include_all_commits=true&&show_icons=true&hide=prs,issues" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=dark&locale=pt-br&commits_year=2025&include_all_commits=true&show_icons=true&hide=prs,issues#gh-dark-mode-only" />
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=graywhite&locale=pt-br&langs_count=8&layout=compact" />
