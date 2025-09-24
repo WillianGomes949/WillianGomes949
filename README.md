@@ -7,11 +7,7 @@
 </a>
 </div>
 <div>
-	<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WillianGomes949&theme=graywhite&locale=pt-br&commits_year=2025&include_all_commits=true&show_icons=true&hide=prs,issues" />
-	(
-<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only">
-	<img height=200 align="center" src="(https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" />
+	
 </div>
 
 </a>
