@@ -1,9 +1,4 @@
 
-<img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianGomes949&theme=graywhite&locale=pt-br&langs_count=10&layout=compact" target="_blank"/>
-</div>
-
-<br>
-
 ## Ferramentas e Tecnologias:
 <div>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=FFF&style=for-the-badge"/>
