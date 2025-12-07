@@ -1,6 +1,6 @@
 # Olá, eu sou Willian Gomes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3178C6&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+React+e+Ecossistema+JS;Focado+em+Solu%C3%A7%C3%B5es+para+Neg%C3%B3cios" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3178C6&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+React;Focado+em+Solu%C3%A7%C3%B5es+para+Neg%C3%B3cios" alt="Typing SVG" />
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web modernas e escaláveis. Atualmente trabalho transformando ideias em código, utilizando as melhores práticas de desenvolvimento e design.
 
