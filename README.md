@@ -1,8 +1,12 @@
-<div align="center">
+<h1 align="center">Olá! Eu sou o Willian Gomes</h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </p>
-# Willian Gomes
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3178C6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Especialista+em+React+%2B+Ecossistema+JS;Soluções+Modernas+para+Negócios" />
+</p>
 
 ### **Desenvolvedor Full Stack | Especialista em React & Next.js**
 
@@ -14,7 +18,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis e orientadas a resultados. Transformo ideias em aplicações funcionais utilizando as melhores práticas do mercado.
 
@@ -22,7 +26,7 @@ Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 <p>
@@ -52,16 +56,11 @@ Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<!-- Para estatísticas funcionais, instale o github-readme-stats -->
-<!-- Mais informações: https://github.com/anuraghazra/github-readme-stats -->
-
-![Willian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianGomes949&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -69,14 +68,12 @@ Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis 
 
 <div align="center">
 
-## 📫 Vamos Conversar!
+## Vamos Conversar!
 
 Estou sempre aberto a novas oportunidades e colaborações.
 
-**Entre em contato:** [LinkedIn](https://www.linkedin.com/in/williangomes949) | [Email](mailto:seuemail@exemplo.com)
+**Entre em contato:** [LinkedIn](https://www.linkedin.com/in/williangomes949) | [Email](mailto:williangomes949@gmail.com)
 
 ---
-
-⭐ *"O código é poesia lógica que transforma o abstrato em realidade."*
 
 </div>
