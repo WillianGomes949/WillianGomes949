@@ -1,35 +1,80 @@
-👋Olá, sou Willian Gomes
 <div align="center">
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=4A90E2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Especialista+em+React+%2526+Next.js;Focado+em+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Transformando+Ideias+em+C%C3%B3digo
+
+# 👨‍💻 Willian Gomes
+
+### **Desenvolvedor Full Stack | Especialista em React & Next.js**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/williangomes949)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/williangomes949)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:seuemail@exemplo.com)
 
 </div>
-Sou um desenvolvedor apaixonado por criar soluções digitais que combinam performance, design intuitivo e valor de negócio. Especializado no ecossistema JavaScript/TypeScript, transformo desafios complexos em aplicações web modernas e eficientes.
 
-🛠️ Stack Tecnológica
-Frontend & Interfaces
-<div align="left"> <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css" height="48" alt="Frontend technologies" /> </div>
-Backend & Cloud
-<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,mysql,aws,vercel" height="48" alt="Backend technologies" /> </div>
-Ferramentas & Fluxo
-<div align="left"> <img src="https://skillicons.dev/icons?i=git,vscode,figma,wordpress" height="48" alt="Tools" /> </div>
-📊 Estatísticas do GitHub
+---
+
+## 🚀 Sobre Mim
+
+Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis e orientadas a resultados. Transformo ideias em aplicações funcionais utilizando as melhores práticas do mercado.
+
+**Especializações:** React, TypeScript, Next.js, Node.js, AWS
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+</p>
+
+### **Backend & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
+</p>
+
+### **Ferramentas & Outros**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=WillianGomes949&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2
-https://github-readme-stats.vercel.app/api/top-langs/?username=WillianGomes949&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2
+
+<!-- Para estatísticas funcionais, instale o github-readme-stats -->
+<!-- Mais informações: https://github.com/anuraghazra/github-readme-stats -->
+
+![Willian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillianGomes949&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianGomes949&layout=compact&theme=dark&hide_border=true)
 
 </div>
-📈 Atividade Recente
-<!--START_SECTION:activity--><!--END_SECTION:activity-->
-📫 Conecte-se Comigo
-<div align="center">
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
 
-</div>
+---
+
 <div align="center">
-💡 "Código não é apenas instruções para máquinas, é expressão de lógica e criatividade."
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+
+## 📫 Vamos Conversar!
+
+Estou sempre aberto a novas oportunidades e colaborações.
+
+**Entre em contato:** [LinkedIn](https://www.linkedin.com/in/williangomes949) | [Email](mailto:seuemail@exemplo.com)
+
+---
+
+⭐ *"O código é poesia lógica que transforma o abstrato em realidade."*
 
 </div>
