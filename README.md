@@ -5,18 +5,9 @@
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web modernas e escaláveis. Atualmente trabalho transformando ideias em código, utilizando as melhores práticas de desenvolvimento e design.
 
 ---
-
-### 📊 Estatísticas
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=williangomes949&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&align=left)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williangomes949&layout=compact&theme=dracula&align=left)
-
 <br clear="left"/>
 <br/>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;"/>
-</div>
-<br/>
 
 ### 💻 Tech Stack
 
@@ -45,3 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
 <div align="center">
 <img src="https://profile-counter.glitch.me/williangomes949/count.svg" alt="Contador de Visitas do Perfil">
 </div>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;"/>
+</div>
+<br/>
