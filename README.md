@@ -32,6 +32,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <br/>
+<br clear="left"/>
 <div align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;"/>
 </div>
+<br/>
+
