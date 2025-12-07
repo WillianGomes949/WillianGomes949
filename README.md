@@ -14,8 +14,8 @@ Ferramentas & Fluxo
 <div align="left"> <img src="https://skillicons.dev/icons?i=git,vscode,figma,wordpress" height="48" alt="Tools" /> </div>
 📊 Estatísticas do GitHub
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2
-https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2
+https://github-readme-stats.vercel.app/api?username=WillianGomes949&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2
+https://github-readme-stats.vercel.app/api/top-langs/?username=WillianGomes949&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2
 
 </div>
 📈 Atividade Recente
