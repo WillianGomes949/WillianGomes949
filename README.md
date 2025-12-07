@@ -6,10 +6,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
 
 ---
 
-### 📊 Estatísticas
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=williangomes949&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&align=left)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williangomes949&layout=compact&theme=dracula&align=left)
-
 <br clear="left"/>
 <br/>
 
