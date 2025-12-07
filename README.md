@@ -1,80 +1,74 @@
-<div align="center">
+<h1 align="center">👋 Olá! Eu sou o Willian Gomes</h1>
 
-# 👨‍💻 Willian Gomes
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</p>
 
-### **Desenvolvedor Full Stack | Especialista em React & Next.js**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/williangomes949)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/williangomes949)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:seuemail@exemplo.com)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3178C6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Especialista+em+React+%2B+Ecossistema+JS;Soluções+Modernas+para+Negócios" />
+</p>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 
-Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis e orientadas a resultados. Transformo ideias em aplicações funcionais utilizando as melhores práticas do mercado.
-
-**Especializações:** React, TypeScript, Next.js, Node.js, AWS
+Sou um desenvolvedor fullstack apaixonado por tecnologia e movido a desafios.  
+Transformo ideias em produtos digitais usando as melhores práticas, interfaces modernas e foco total em performance e experiência do usuário.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech Stack
 
 ### **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img height="32" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img height="32" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### **Backend & Cloud**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
+  <img height="32" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-### **Ferramentas & Outros**
+### **Ferramentas & CMS**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" />
+  <img height="32" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+</p>
+
+### **UI/UX & Design**
+<p>
+  <img height="32" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Contato
 
-<div align="center">
-
-<!-- Para estatísticas funcionais, instale o github-readme-stats -->
-<!-- Mais informações: https://github.com/anuraghazra/github-readme-stats -->
-
-![Willian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillianGomes949&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianGomes949&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Vamos Conversar!
-
-Estou sempre aberto a novas oportunidades e colaborações.
-
-**Entre em contato:** [LinkedIn](https://www.linkedin.com/in/williangomes949) | [Email](mailto:seuemail@exemplo.com)
+<p>
+  <a href="https://www.linkedin.com/in/williangomes949" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/williangomes949" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img height="35" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *"O código é poesia lógica que transforma o abstrato em realidade."*
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 12px;" />
 </div>
