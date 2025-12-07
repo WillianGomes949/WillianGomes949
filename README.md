@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/williangomes949)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/williangomes949)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:williangomes949@gmail.com)
 
 </div>
 
