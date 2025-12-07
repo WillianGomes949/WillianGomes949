@@ -22,36 +22,38 @@
 
 Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis e orientadas a resultados. Transformo ideias em aplicações funcionais utilizando as melhores práticas do mercado.
 
-**Especializações:** React, TypeScript, Next.js, Node.js, AWS
+**Foco atual:** React, TypeScript, Next.js, Node.js e Arquitetura Cloud
 
 ---
 
 ## Tech Stack
 
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+### **Frontend & UI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="40" />
 </p>
 
 ### **Backend & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" height="40" />
 </p>
 
 ### **Ferramentas & Outros**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress" height="40" />
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" title="Photoshop" height="40" />
 </p>
 
 ---
@@ -59,17 +61,16 @@ Desenvolvedor full stack com foco em criar soluções web modernas, escaláveis 
 ## GitHub Stats
 
 <div align="center">
-
+  
 ![Top Languages](https://github-readme-stats-will.vercel.app/api?username=WillianGomes949)
-
 </div>
 
 ---
 
 <div align="center">
-
+  
 ## Vamos Conversar!
-
+  
 Estou sempre aberto a novas oportunidades e colaborações.
 
 **Entre em contato:** [LinkedIn](https://www.linkedin.com/in/williangomes949) | [Email](mailto:williangomes949@gmail.com)
