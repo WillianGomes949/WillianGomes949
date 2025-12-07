@@ -34,4 +34,14 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
 <a href="https://www.linkedin.com/in/williangomes949" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<a href="
+<a href="https://instagram.com/williangomes949" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+<br>
+<div align="center">
+<img src="https://profile-counter.glitch.me/williangomes949/count.svg" alt="Contador de Visitas do Perfil">
+</div>
