@@ -9,11 +9,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
 <br clear="left"/>
 <br/>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;"/>
-</div>
-<br/>
-
 ### 💻 Tech Stack
 
 | Área | Tecnologias |
@@ -25,7 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
 
 ---
 
-### 📫 Contato
+### Contato
 
 <a href="https://www.linkedin.com/in/williangomes949" target="_blank">
   <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
@@ -39,5 +34,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
 
 <br>
 <div align="center">
-<img src="https://profile-counter.glitch.me/williangomes949/count.svg" alt="Contador de Visitas do Perfil">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;"/>
 </div>
+<br/>
