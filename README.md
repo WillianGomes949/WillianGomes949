@@ -3,19 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3178C6&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+React+e+Ecossistema+JS;Focado+em+Solu%C3%A7%C3%B5es+para+Neg%C3%B3cios" alt="Typing SVG" />
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web modernas e escaláveis. Atualmente trabalho transformando ideias em código, utilizando as melhores práticas de desenvolvimento e design.
-
 ---
-
-### 📊 Estatísticas
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=williangomes949&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&align=left)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williangomes949&layout=compact&theme=dracula&align=left)
-
 <br clear="left"/>
-<br/>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;"/>
-</div>
+
 <br/>
 
 ### 💻 Tech Stack
@@ -40,8 +31,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções web m
 <a href="mailto:seuemail@exemplo.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-
-<br>
 <div align="center">
-<img src="https://profile-counter.glitch.me/williangomes949/count.svg" alt="Contador de Visitas do Perfil">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;"/>
 </div>
