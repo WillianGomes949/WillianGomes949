@@ -1,6 +1,8 @@
 <div align="center">
-
-# 👨‍💻 Willian Gomes
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</p>
+# Willian Gomes
 
 ### **Desenvolvedor Full Stack | Especialista em React & Next.js**
 
