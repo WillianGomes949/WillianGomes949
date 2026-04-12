@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3178C6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Especialista+em+React+%2B+Ecossistema+JS;Soluções+Modernas+para+Negócios" />
 </p>
 
-### **Desenvolvedor Full Stack | Especialista em React & Next.js**
+### **Desenvolvedor Full Stack | React & Next.js**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/williangomes949)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/williangomesdev)
